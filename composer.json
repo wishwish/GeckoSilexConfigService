@@ -30,5 +30,6 @@
     },
     "suggest": {
         "symfony/yaml": "For using Yaml formatted configuration files (~2.8|3.0.*)."
-    }
+    },
+    "abandoned": false
 }
