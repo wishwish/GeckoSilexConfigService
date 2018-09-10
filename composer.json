@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": "^5.5 || >=7.0.8",
-        "silex/silex": "v2.*",
+        "symfony/flex": "dev-master",
         "symfony/filesystem": "~2.8|3.*|4.*"
     },
     "require-dev": {
